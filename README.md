@@ -1,2 +1,2 @@
-# chat
+# chatApp
 chatting between two people
